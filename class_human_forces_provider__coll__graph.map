@@ -1,0 +1,6 @@
+<map id="HumanForcesProvider" name="HumanForcesProvider">
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1_r_f_module.html" title="{RFModule\n||}" alt="" coords="5,13,87,91"/>
+<area shape="rect" id="node5" href="$classyarp_1_1os_1_1_buffered_port.html" title="{yarp::os::BufferedPort\l\&lt; yarp::sig::Vector \&gt;\n||}" alt="" coords="305,6,455,98"/>
+<area shape="rect" id="node6" href="$classyarp_1_1os_1_1_buffered_port.html" title="{yarp::os::BufferedPort\l\&lt; human::HumanForces \&gt;\n||}" alt="" coords="479,6,653,98"/>
+<area shape="rect" id="node7" href="$classyarp_1_1os_1_1_buffered_port.html" title="{yarp::os::BufferedPort\l\&lt; human::HumanState \&gt;\n||}" alt="" coords="678,6,844,98"/>
+</map>

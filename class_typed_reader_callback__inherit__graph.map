@@ -1,0 +1,4 @@
+<map id="TypedReaderCallback" name="TypedReaderCallback">
+<area shape="rect" id="node2" href="$class_human_t_f_bridge.html" title="{HumanTFBridge\&lt; XsensSegments\lFrame \&gt;\n|&#45; client_port\l&#45; xsensDataPort\l&#45; xsensDriver\l&#45; publisher_tf\l&#45; tf\l&#45; segments\l&#45; fakeSegments\l|+ getPeriod()\l+ updateModule()\l+ configure()\l+ close()\l+ onRead()\l}" alt="" coords="5,131,229,370"/>
+<area shape="rect" id="node3" href="$classxsens_joint_state_publisher_module.html" title="{xsensJointStatePublisher\lModule\&lt; HumanState \&gt;\n|&#45; client_port\l&#45; humanStateDataPort\l&#45; publisher\l&#45; publisher_tf\l&#45; joint_state\l&#45; tf\l|+ getPeriod()\l+ updateModule()\l+ configure()\l+ close()\l+ onRead()\l}" alt="" coords="255,139,425,363"/>
+</map>
