@@ -1,9 +1,8 @@
-#define _USE_MATH_DEFINES
-#include <cmath>
 #include "InverseKinematicsIPOPT.h"
 #include <iDynTree/Core/EigenHelpers.h>
 #include <string>
 #include <vector>
+#include <cmath>
 #include <cassert>
 
 using namespace std;

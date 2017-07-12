@@ -5,8 +5,6 @@
  * @copyright iCub Facility - Istituto Italiano di Tecnologia
  */
 
-#define _USE_MATH_DEFINES
-#include <cmath>
 
 #include "RobotFrameTransformer.h"
 
@@ -17,6 +15,7 @@
 #include <iDynTree/yarp/YARPConversions.h>
 #include <iDynTree/Core/EigenHelpers.h>
 
+#include <cmath>
 
 namespace human
 {

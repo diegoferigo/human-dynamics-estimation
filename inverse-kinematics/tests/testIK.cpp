@@ -1,5 +1,4 @@
-#define _USE_MATH_DEFINES
-#include <cmath>
+
 #include <human-ik/InverseKinematics.h>
 
 #include "URDFdir.h"
