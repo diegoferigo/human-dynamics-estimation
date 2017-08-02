@@ -25,6 +25,10 @@ include(AddWarningsConfigurationToTarget)
 # See https://blog.kitware.com/create-dlls-on-windows-without-declspec-using-new-cmake-export-all-feature/
 set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
 
+# Handle the _USE_MATH_DEFINES macro inclusion
+# https://github.com/robotology/human-dynamics-estimation/pull/69
+add_definitions(-D_USE_MATH_DEFINES)
+
 # Shared/Dynamic or Static library?
 option(BUILD_SHARED_LIBS "Build libraries as shared as opposed to static" ON)
 
@@ -57,4 +61,3 @@ add_subdirectory(yarp)
 
 #### add the "uninstall" target
 include(AddUninstallTarget)
-
